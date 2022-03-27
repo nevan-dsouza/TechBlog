@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Unboxing the new Macbook Pro",
+      "content": "I am OBSESSED with the new Macbook Pro! The aesthetics of it and the build quality are truly superior. With Apple's own chip, the prices have drastically decreased and is more affordable and the durability is as great as it can be! Faster processing with a 32GB RAM is not a dream anymore, it's a dream come true. Well done Apple!",
+      "user_id": 1,
+      "comment_count": 1
+    },
+    {
+        "title": "OnePlus 8 Pro",
+        "content": "OnePlus has never failed to impress us with their very affordable and modern flagship competitive mobile phones. It is truly amazing how they manage to provide the public with the latest tech for reasonable prices. India has been the best supporter and consumer of this brand.",
+        "user_id": 2,
+        "comment_count": 1
+      },
+      {
+        "title": "Why MVC is so important",
+        "content": "MVC lets developers to maintain a genuine separation of responsibilities by dividing their code into three layers: data, design, and application logic.",
+        "user_id": 3,
+        "comment_count": 1
+      }
+]
